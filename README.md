@@ -1,5 +1,3 @@
-Bright-Eyed and Bushy-Tailed
+# Java and Selenium studies
 
-### I break
-## responsibly
-#
+
